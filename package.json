@@ -1,0 +1,28 @@
+{
+  "name": "micro-json",
+  "version": "1.0.0",
+  "description": "Lightweight utility to load/process/save JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polygoat/micro-json.git"
+  },
+  "keywords": [
+    "json",
+    "storage",
+    "helper",
+    "util"
+  ],
+  "author": "Dan Borufka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polygoat/micro-json/issues"
+  },
+  "homepage": "https://github.com/polygoat/micro-json#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
