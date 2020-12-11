@@ -3,6 +3,11 @@ Micro JSON for NodeJS
 
 Lightweight utility to load/process/save JSON files
 
+[![npm][npm-badge]][npm]
+
+[npm]: https://www.npmjs.org/package/micro-json
+[npm-badge]: https://img.shields.io/npm/v/micro-json.svg?style=flat-square
+
 ## Goals & Design
 
 This small utility covers a `JsonStore` class for easy **loading and overwriting of json files** along with a couple of **helper functions** for easier JSON handling.
